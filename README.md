@@ -168,3 +168,4 @@ terraform apply 2>&1 | tee debug.log  # Save logs
 This README covers all the Terraform commands needed for your **"Terraform in One Shot"** video. Let me know if you need modifications or extra details! 🚀
 
 
+# Terrafor-DevOps
