@@ -36,13 +36,13 @@ terraform apply     # Creates/updates infrastructure
 terraform apply -auto-approve  # Applies without manual confirmation
 ```
 
-### **Destroy Infrastructure**
+### **Destroy Infrastructure**      
 ```sh
 terraform destroy  # Destroys all managed resources
 terraform destroy -auto-approve  # Without confirmation
 ```
 
-## **3. Managing Terraform State**
+## **3. Managing Terraform State**   
 ### **Check Current State**
 ```sh
 terraform state list  # Lists all managed resources
